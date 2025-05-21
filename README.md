@@ -10,4 +10,4 @@ Sendo eles:
 -Programação de Robô Sumô.  
 -Construção e programação de um Robô Solucionador de Cubo Mágico.  
 -Contrução de uma Plotter 2D em Microprocessadores I.  
-  
+Os arquivos de extensao ".md" sao os uploads dos videos.
